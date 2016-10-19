@@ -1452,12 +1452,13 @@ footer {
 }
 .footer-contacts li a {
 	color:#707070;
-	font-size:12px;
+	font-size:16px;
 	font-family: 'Montserrat', sans-serif;
 	text-transform:uppercase;
 }
 .footer-contacts li a  i {
 	padding-right:10px;
+	font-size:20px;
 }
 .to-top-holder {
 	float:left;
